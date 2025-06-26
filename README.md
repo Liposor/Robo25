@@ -30,7 +30,7 @@ Robo25/
 │       └── deploy                # Arquivos de configuração e pathplanning
 ├── build.gradle                 # Configuração do projeto Gradle
 ```
-
+*APENAS UM EXEMPLO, NÃO SEGUE A LOGICA DO CODIGO*
 ## Contribuições
 Pull requests são bem-vindas! Para grandes mudanças, abra uma issue para discutirmos o que você deseja implementar.
 
