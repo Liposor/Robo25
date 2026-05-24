@@ -2,7 +2,7 @@
 
 ![FRC Badge](https://img.shields.io/badge/FRC-2025-blue.svg)
 ![Java](https://img.shields.io/badge/language-Java-orange.svg)
-![License](https://img.shields.io/badge/license-Team%20Internal-lightgrey.svg)
+
 
 Este repositório contém a programação oficial do robô FRC da equipe para a temporada de 2025. O projeto foi desenvolvido com foco na participação nas regionais de Brasília e São Paulo.
 
